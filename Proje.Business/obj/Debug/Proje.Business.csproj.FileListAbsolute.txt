@@ -1,0 +1,5 @@
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\WebProgramlama\Proje.Business\bin\Debug\Proje.Business.dll
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\WebProgramlama\Proje.Business\bin\Debug\Proje.Business.pdb
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\WebProgramlama\Proje.Business\obj\Debug\Proje.Business.csprojAssemblyReference.cache
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\WebProgramlama\Proje.Business\obj\Debug\Proje.Business.dll
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\WebProgramlama\Proje.Business\obj\Debug\Proje.Business.pdb

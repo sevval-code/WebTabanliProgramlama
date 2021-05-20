@@ -12,7 +12,7 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Sevi | Landing, Corporate &amp; Business Templatee</title>
+    <title>KitapSever | Kitap Al, Oku &amp; Paylaş</title>
 
 
     <!-- ===============================================-->
@@ -42,15 +42,15 @@
     <main class="main" id="top">
       <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 backdrop" data-navbar-on-scroll="data-navbar-on-scroll">
         <div class="container"><a class="navbar-brand d-flex align-items-center fw-semi-bold fs-3" href="#"> <img class="me-3" src="sevi/public/assets/img/gallery/logo.png" alt="" />
-            <div class="text-primary font-base">Sevi</div>
+            <div class="text-primary font-base">KitapSever</div>
           </a>
           <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
           <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto pt-2 pt-lg-0 font-base">
-              <li class="nav-item"><a class="nav-link fw-medium active"  href="#">Home</a></li>
-              <li class="nav-item"><a class="nav-link" href="#books">Books</a></li>
-              <li class="nav-item"><a class="nav-link" href="#libraries">Libraries</a></li>
-              <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">More</a>
+              <li class="nav-item"><a class="nav-link fw-medium active"  href="#">Anasayfa</a></li>
+              <li class="nav-item"><a class="nav-link" href="#books">Kitaplar</a></li>
+              <li class="nav-item"><a class="nav-link" href="#libraries">Kategoriler</a></li>
+              <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Daha Fazlası</a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <li><a class="dropdown-item" href="#">Action</a></li>
                   <li><a class="dropdown-item" href="#">Another action </a></li>
@@ -58,7 +58,7 @@
               </li>
             </ul>
             <form class="ps-lg-5">
-              <button class="btn btn-lg btn-primary rounded-pill bg-gradient font-base order-0" type="submit">Login</button>
+              <button class="btn btn-lg btn-primary rounded-pill bg-gradient font-base order-0" type="submit">Giriş Yap</button>
             </form>
           </div>
         </div>
@@ -75,12 +75,12 @@
         <div class="container">
           <div class="row align-items-center min-vh-md-75">
             <div class="col-md-7 col-lg-6 py-6 text-sm-start text-center">
-              <h1 class="mt-6 mb-sm-4 display-4 fw-semi-bold lh-sm fs-4 fs-lg-6 fs-xxl-7">Today's research, <br class="d-block d-lg-none d-xl-block" />tomorrow's innovation</h1>
-              <p class="mb-4 fs-1">Accelerating research discovery to shape a better future </p>
+              <h1 class="mt-6 mb-sm-4 display-4 fw-semi-bold lh-sm fs-4 fs-lg-6 fs-xxl-7">KİTAPSEVER<br class="d-block d-lg-none d-xl-block" />Kitap al, oku ve paylaş</h1>
+              <p class="mb-4 fs-1">KitapSever sayfası; okuduğunuz, ne zamandır okumak istediğiniz ve okumakta olduğunuz kitapların sosyal medyasıdır.</p>
               <div class="pt-3">
                 <form>
                   <div class="input-group w-xl-75 w-xxl-50 d-flex flex-end-center">
-                    <input class="form-control rounded-pill border-0 font-base" id="formGroupExampleInput" type="text" placeholder="Search books, articles, keywords" /><img class="input-box-icon me-3" src="sevi/public/assets/img/illustrations/search.png" width="18" alt="" />
+                    <input class="form-control rounded-pill border-0 font-base" id="formGroupExampleInput" type="text" placeholder="Arama yap" /><img class="input-box-icon me-3" src="sevi/public/assets/img/illustrations/search.png" width="18" alt="" />
                   </div>
                 </form>
               </div>
@@ -97,32 +97,32 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-auto mb-5 mb-md-7">
-              <h1 class="fw-semi-bold text-warning">Our <span class="text-1100">resources</span></h1>
+              <h1 class="fw-semi-bold text-warning">KATEGORİLERİMİZ <span class="text-1100"></span></h1>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
               <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="sevi/public/assets/img/gallery/researchers.png" width="100" alt="..." />
-                <h3 class="h5 mb-4 font-base">Researchers</h3>
-                <p class="lh-lg">Register online Discover tools and manage alerts Learn about how to access</p>
+                <h3 class="h5 mb-4 font-base">Tarih Kitapları</h3>
+                <p class="lh-lg">Okudukça kendi tarihimizi dünya tarihini daha iyi öğreneceğimiz tarih kitapları</p>
               </div>
             </div>
             <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
               <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="sevi/public/assets/img/gallery/librarian.png" width="100" alt="..." />
-                <h3 class="h5 mb-4 font-base">Librarian</h3>
-                <p class="lh-lg">Manage your account View products and solutions Find resources and support</p>
+                <h3 class="h5 mb-4 font-base">Bilim Kurgular</h3>
+                <p class="lh-lg">Günlük hayatımızdan bizi koparıp götüren bilim kurgu kitapları</p>
               </div>
             </div>
             <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
               <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="sevi/public/assets/img/gallery/societies.png" width="100" alt="..." />
-                <h3 class="h5 mb-4 font-base">Societies</h3>
-                <p class="lh-lg">Publish with Wiley Explore our resource library Learn about topics and trends</p>
+                <h3 class="h5 mb-4 font-base">Şiir Kitapları</h3>
+                <p class="lh-lg">Nazım Hikmet, Nilgün Marmara,Ece Ayhan çok daha fazlası burada</p>
               </div>
             </div>
             <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
               <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="sevi/public/assets/img/gallery/authors.png" width="100" alt="..." />
-                <h3 class="h5 mb-4 font-base">Authors</h3>
-                <p class="lh-lg">Submit a paper Track your article Learn about Open Access</p>
+                <h3 class="h5 mb-4 font-base">Romanlar</h3>
+                <p class="lh-lg">Vazgeçilmezimiz romanlar</p>
               </div>
             </div>
           </div>
@@ -161,7 +161,7 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-8 col-lg-6 text-center mb-7">
-              <h1 class="fw-semi-bold text-warning">Best<span class="text-1100"> seller books</span></h1>
+              <h1 class="fw-semi-bold text-warning">En Çok<span class="text-1100"> Okunan Ve Satılan Kitaplar</span></h1>
             </div>
             <div class="col-lg-9">
               <div class="accordion" id="accordionExample">
@@ -169,7 +169,7 @@
                   <div class="accordion-header" id="heading1">
                     <div class="accordion-button" role="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
                       <div class="row w-100 justify-content-center">
-                        <div class="col-sm-6 font-base"><span class="mb-0 fw-bold text-start fs-1 text-1200">The Lord of the Rings</span>
+                        <div class="col-sm-6 font-base"><span class="mb-0 fw-bold text-start fs-1 text-1200">Yüzüklerin Efendisi</span>
                           <p class="my-2">J.R.R Tolkien</p>
                         </div>
                         <div class="col-8 col-sm-4">
@@ -190,7 +190,7 @@
                           </svg>
                         </div>
                         <div class="col-4 col-sm-2 text-end">
-                          <h5 class="mb-0 font-base fw-bold">$21</h5>
+                          <h5 class="mb-0 font-base fw-bold"></h5>
                         </div>
                       </div>
                     </div>
@@ -201,9 +201,9 @@
                         <div class="col-12 col-sm-2"><img class="img-fluid d-block mx-auto mx-sm-0" src="sevi/public/assets/img/gallery/lord-rings.png" width="130" alt="..." /></div>
                         <div class="col-12 col-sm-9 mt-4 mt-sm-0 d-sm-block d-flex flex-column">
                           <ul>
-                            <li class="fw-semi-bold text-black">Copies Sold: 150 million</li>
+                            <li class="fw-semi-bold text-black">Kullanıcılarımızın şu kadarı okudu : 19 </li>
                           </ul>
-                          <p>The Lord of the Rings is an epic high-fantasy novel written by English author J. R. R. Tolkien. The story began as a sequel to Tolkiens 1937 fantasy novel The Hobbit, but eventually developed into... <button type="button" class="btn btn-link px-0 font-base">read more</button> </p><a href="!#"><img class="my-1" src="sevi/public/assets/img/gallery/amazon.png" width="110" alt="" /></a>
+                          <p>Yüzüklerin Efendisi, İngiliz filolojist ve Oxford Üniversitesi profesörü J.R.R. Tolkien'in yazdığı epik fantezi türündeki romandır. Hikaye, Tolkien'in çocuklar için yazdığı 1937 tarihli Hobbit'in devamı olarak başlamıştı ancak... <button type="button" class="btn btn-link px-0 font-base">daha fazla</button> </p><a href="!#"><img class="my-1" src="sevi/public/assets/img/gallery/amazon.png" width="110" alt="" /></a>
                         </div>
                       </div>
                     </div>
@@ -213,8 +213,8 @@
                   <div class="accordion-header" id="heading2">
                     <div class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
                       <div class="row w-100 justify-content-center">
-                        <div class="col-sm-6 font-base"><span class="mb-0 fw-bold text-start fs-1 text-1200">A Tale of Two Cities</span>
-                          <p class="my-2">Charles Dickens</p>
+                        <div class="col-sm-6 font-base"><span class="mb-0 fw-bold text-start fs-1 text-1200">Bir Ömür Nasıl Yaşanır?</span>
+                          <p class="my-2">İlber Ortaylı</p>
                         </div>
                         <div class="col-8 col-sm-4">
                           <svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
@@ -234,7 +234,7 @@
                           </svg>
                         </div>
                         <div class="col-4 col-sm-2 text-end">
-                          <h5 class="mb-0 font-base fw-bold">$16</h5>
+                          <h5 class="mb-0 font-base fw-bold"></h5>
                         </div>
                       </div>
                     </div>
@@ -245,9 +245,9 @@
                         <div class="col-12 col-sm-2"><img class="img-fluid d-block mx-auto mx-sm-0" src="sevi/public/assets/img/gallery/two-cities.jpg" width="130" alt="..." /></div>
                         <div class="col-12 col-sm-9 mt-4 mt-sm-0 d-sm-block d-flex flex-column">
                           <ul>
-                            <li class="fw-semi-bold text-black">Copies Sold: 150 million</li>
+                            <li class="fw-semi-bold text-black">Kullanıcılarımızın şu kadarı okudu : 42</li>
                           </ul>
-                          <p>The Lord of the Rings is an epic high-fantasy novel written by English author J. R. R. Tolkien. The story began as a sequel to Tolkiens 1937 fantasy novel The Hobbit, but eventually developed into... <button type="button" class="btn btn-link px-0 font-base">read more</button> </p><a href="!#"><img class="my-1" src="sevi/public/assets/img/gallery/amazon.png" width="110" alt="" /></a>
+                          <p>" Cesur olun. Kendinizi rahat hissettiğiniz alanın dışında pencereler açın. Farklı dünyalarla ancak böyle tanışırsınız. Ben hep yerimde dursaydım, dünyamı değiştirecek insanları aramasaydım, bugün tanıdığınız ben olmazdım"... <button type="button" class="btn btn-link px-0 font-base">daha fazla</button> </p><a href="!#"><img class="my-1" src="sevi/public/assets/img/gallery/amazon.png" width="110" alt="" /></a>
                         </div>
                       </div>
                     </div>
@@ -257,8 +257,8 @@
                   <div class="accordion-header" id="heading3">
                     <div class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="true" aria-controls="collapse3">
                       <div class="row w-100 justify-content-center">
-                        <div class="col-sm-6 font-base"><span class="mb-0 fw-bold text-start fs-1 text-1200">The Little Princess</span>
-                          <p class="my-2">Antoine de Saint-Exupéry</p>
+                        <div class="col-sm-6 font-base"><span class="mb-0 fw-bold text-start fs-1 text-1200">Şeker Portakalı</span>
+                          <p class="my-2">Jose Mauro De Vasconcelos</p>
                         </div>
                         <div class="col-8 col-sm-4">
                           <svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
@@ -278,7 +278,7 @@
                           </svg>
                         </div>
                         <div class="col-4 col-sm-2 text-end">
-                          <h5 class="mb-0 font-base fw-bold">$11</h5>
+                          <h5 class="mb-0 font-base fw-bold"></h5>
                         </div>
                       </div>
                     </div>
@@ -289,9 +289,9 @@
                         <div class="col-12 col-sm-2"><img class="img-fluid d-block mx-auto mx-sm-0" src="sevi/public/assets/img/gallery/little-princess.jpg" width="130" alt="..." /></div>
                         <div class="col-12 col-sm-9 mt-4 mt-sm-0 d-sm-block d-flex flex-column">
                           <ul>
-                            <li class="fw-semi-bold text-black">Copies Sold: 150 million</li>
+                            <li class="fw-semi-bold text-black">Kullanıcılarımızın şu kadarı okudu : 62</li>
                           </ul>
-                          <p>The Lord of the Rings is an epic high-fantasy novel written by English author J. R. R. Tolkien. The story began as a sequel to Tolkiens 1937 fantasy novel The Hobbit, but eventually developed into... <button type="button" class="btn btn-link px-0 font-base">read more</button> </p><a href="!#"><img class="my-1" src="sevi/public/assets/img/gallery/amazon.png" width="110" alt="" /></a>
+                          <p>Brezilya edebiyatının klasiklerinden Şeker Portakalı, José Mauro de Vasconcelos’un başyapıtı kabul edilir. Yetişkinler dünyasının sınırlamalarına hayal gücüyle meydan okuyan Zezé’nin yoksulluk, acı ve ümit dolu hikâyesi yazarın çocukluğundan derin izler taşır... <button type="button" class="btn btn-link px-0 font-base">daha fazla</button> </p><a href="!#"><img class="my-1" src="sevi/public/assets/img/gallery/amazon.png" width="110" alt="" /></a>
                         </div>
                       </div>
                     </div>
@@ -301,8 +301,8 @@
                   <div class="accordion-header" id="heading4">
                     <div class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
                       <div class="row w-100 justify-content-center">
-                        <div class="col-sm-6 font-base"><span class="mb-0 fw-bold text-start fs-1 text-1200">The Hobbit</span>
-                          <p class="my-2">J.R.R Tolkien</p>
+                        <div class="col-sm-6 font-base"><span class="mb-0 fw-bold text-start fs-1 text-1200">İçimizdeki Şeytan</span>
+                          <p class="my-2">Sabahattin Ali</p>
                         </div>
                         <div class="col-8 col-sm-4">
                           <svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
@@ -322,7 +322,7 @@
                           </svg>
                         </div>
                         <div class="col-4 col-sm-2 text-end">
-                          <h5 class="mb-0 font-base fw-bold">$20</h5>
+                          <h5 class="mb-0 font-base fw-bold"></h5>
                         </div>
                       </div>
                     </div>
@@ -333,9 +333,9 @@
                         <div class="col-12 col-sm-2"><img class="img-fluid d-block mx-auto mx-sm-0" src="sevi/public/assets/img/gallery/hobbit.jpg" width="130" alt="..." /></div>
                         <div class="col-12 col-sm-9 mt-4 mt-sm-0 d-sm-block d-flex flex-column">
                           <ul>
-                            <li class="fw-semi-bold text-black">Copies Sold: 150 million</li>
+                            <li class="fw-semi-bold text-black">Kullanıcılarımızın şu kadarı okudu : 38</li>
                           </ul>
-                          <p>The Lord of the Rings is an epic high-fantasy novel written by English author J. R. R. Tolkien. The story began as a sequel to Tolkiens 1937 fantasy novel The Hobbit, but eventually developed into... <button type="button" class="btn btn-link px-0 font-base">read more</button></p><a href="!#"><img class="my-1" src="sevi/public/assets/img/gallery/amazon.png" width="110" alt="" /></a>
+                          <p>"İsteyip istemediğimi doğru dürüst bilmediğim, fakat neticesi aleyhime çıkarsa istemediğimi iddia ettiğim bu nevi söz ve fiillerimin daimi bir mesulünü bulmuştum: Buna içimdeki şeytan diyordum, müdafaasını üzerime almaktan korktuğum bütün hareketlerimi ona yüklüyor... <button type="button" class="btn btn-link px-0 font-base">daha fazla</button></p><a href="!#"><img class="my-1" src="sevi/public/assets/img/gallery/amazon.png" width="110" alt="" /></a>
                         </div>
                       </div>
                     </div>
@@ -345,8 +345,8 @@
                   <div class="accordion-header" id="heading5">
                     <div class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
                       <div class="row w-100 justify-content-center">
-                        <div class="col-sm-6 font-base"><span class="mb-0 fw-bold text-start fs-1 text-1200">Alices Adventures in Wonderland</span>
-                          <p class="my-2">Lewis Carroll</p>
+                        <div class="col-sm-6 font-base"><span class="mb-0 fw-bold text-start fs-1 text-1200">Aşk</span>
+                          <p class="my-2">Elif Şafak</p>
                         </div>
                         <div class="col-8 col-sm-4">
                           <svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
@@ -366,7 +366,7 @@
                           </svg>
                         </div>
                         <div class="col-4 col-sm-2 text-end">
-                          <h5 class="mb-0 font-base fw-bold">$12</h5>
+                          <h5 class="mb-0 font-base fw-bold"></h5>
                         </div>
                       </div>
                     </div>
@@ -377,9 +377,10 @@
                         <div class="col-12 col-sm-2"><img class="img-fluid d-block mx-auto mx-sm-0" src="sevi/public/assets/img/gallery/alice.jpg" width="130" alt="..." /></div>
                         <div class="col-12 col-sm-9 mt-4 mt-sm-0 d-sm-block d-flex flex-column">
                           <ul>
-                            <li class="fw-semi-bold text-black">Copies Sold: 150 million</li>
+                            <li class="fw-semi-bold text-black">Kullanıcılarımızın şu kadarı okudu : 20</li>
                           </ul>
-                          <p>The Lord of the Rings is an epic high-fantasy novel written by English author J. R. R. Tolkien. The story began as a sequel to Tolkiens 1937 fantasy novel The Hobbit, but eventually developed into... <button type="button" class="btn btn-link px-0 font-base">read more</button> </p><a href="!#"><img class="my-1" src="sevi/public/assets/img/gallery/amazon.png" width="110" alt="" /></a>
+                          <p>Ella Rubinstein (40) Amerikalı bir ev kadınıdır. Tipik burjuva değerlerinin hâkim olduğu oldukça varlıklı bir ailesi, düzenli ve görünüşte “sorunsuz” bir evliliği vardır. Üç çocuğunu da büyüttükten sonra bir yayınevinde editör-asistanı olarak iş bulur; görevi A. Z. Zahara adlı tanınmamış bir yazarın tasavvuf felsefesini konu alan tarihi romanını değerlendirmektir.
+Ancak hayatının kritik bir döneminde eline aldığı bu kitap... <button type="button" class="btn btn-link px-0 font-base">daha fazla</button> </p><a href="!#"><img class="my-1" src="sevi/public/assets/img/gallery/amazon.png" width="110" alt="" /></a>
                         </div>
                       </div>
                     </div>
@@ -423,11 +424,11 @@
         <div class="container">
           <div class="row justify-content-between pb-5 pt-8">
             <div class="col-12 col-lg-auto mb-5 mb-lg-0"><a class="d-flex align-items-center fw-semi-bold fs-3" href="#"> <img class="me-3" src="sevi/public/assets/img/gallery/logo.png" alt="" />
-                <div class="text-primary font-base">Sevi</div>
+                <div class="text-primary font-base">KitapSever</div>
               </a></div>
-            <div class="col-auto mb-3">
-              <h6 class="mb-5 font-base fs-1">About us </h6>
-              <ul class="list-unstyled mb-md-4 mb-lg-0">
+            <div class="col-auto mb-6">
+              <h6 class="mb-5 font-base fs-1">Hakkımızda </h6>
+              <ul class="list-unstyled mb-md-6 mb-lg-0">
                 <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Vision</a></li>
                 <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Careers</a></li>
                 <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Blog</a></li>
@@ -435,9 +436,9 @@
                 <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Donate</a></li>
               </ul>
             </div>
-            <div class="col-auto mb-3">
-              <h6 class="mb-5 font-base fs-1">Discover </h6>
-              <ul class="list-unstyled mb-md-4 mb-lg-0">
+            <div class="col-auto mb-6">
+              <h6 class="mb-5 font-base fs-1">İletişim </h6>
+              <ul class="list-unstyled mb-md-6 mb-lg-0">
                 <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Home</a></li>
                 <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Books</a></li>
                 <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Authors</a></li>
@@ -445,7 +446,7 @@
                 <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Advanced Search</a></li>
               </ul>
             </div>
-            <div class="col-auto mb-3">
+            <!--<div class="col-auto mb-3">
               <h6 class="mb-5 font-base fs-1">Develop </h6>
               <ul class="list-unstyled mb-md-4 mb-lg-0">
                 <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Development center</a></li>
@@ -453,8 +454,8 @@
                 <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Writing Book</a></li>
                 <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Add a Book</a></li>
               </ul>
-            </div>
-            <div class="col-auto mb-3">
+            </div> -->
+            <!--<div class="col-auto mb-3">
               <h6 class="mb-5 font-base fs-1">Develop </h6>
               <ul class="list-unstyled mb-md-4 mb-lg-0">
                 <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Help Center</a></li>
@@ -463,7 +464,7 @@
                 <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Contact Us</a></li>
               </ul>
             </div>
-          </div>
+          </div>-->
           <div class="row flex-center">
             <div class="col-auto mb-2">
               <p class="mb-0 fs--1 my-2 text-center">&copy; This template is made with&nbsp;

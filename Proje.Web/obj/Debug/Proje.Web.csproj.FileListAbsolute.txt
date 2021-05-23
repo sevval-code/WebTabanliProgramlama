@@ -122,3 +122,9 @@ C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Web\obj\Debug\Proje.Web.cspr
 C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Web\obj\Debug\Proje.Web.csproj.CopyComplete
 C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Web\obj\Debug\Proje.Web.dll
 C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Web\obj\Debug\Proje.Web.pdb
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Web\bin\EntityFramework.dll
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Web\bin\Proje.DataAccess.dll.config
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Web\bin\EntityFramework.xml
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Web\bin\Proje.Business.dll.config
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Web\bin\EntityFramework.SqlServer.xml

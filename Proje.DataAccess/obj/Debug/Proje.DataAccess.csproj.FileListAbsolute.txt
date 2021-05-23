@@ -3,3 +3,14 @@ C:\Users\Sevval\Desktop\WebTabanliProgramlama\WebProgramlama\Proje.DataAccess\bi
 C:\Users\Sevval\Desktop\WebTabanliProgramlama\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.csprojAssemblyReference.cache
 C:\Users\Sevval\Desktop\WebTabanliProgramlama\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.dll
 C:\Users\Sevval\Desktop\WebTabanliProgramlama\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.pdb
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.DataAccess\bin\Debug\Proje.DataAccess.dll.config
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.DataAccess\bin\Debug\Proje.DataAccess.dll
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.DataAccess\bin\Debug\Proje.DataAccess.pdb
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.csprojAssemblyReference.cache
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.csproj.CopyComplete
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.dll
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.pdb

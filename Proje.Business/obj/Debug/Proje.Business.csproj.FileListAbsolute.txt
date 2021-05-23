@@ -3,3 +3,17 @@ C:\Users\Sevval\Desktop\WebTabanliProgramlama\WebProgramlama\Proje.Business\bin\
 C:\Users\Sevval\Desktop\WebTabanliProgramlama\WebProgramlama\Proje.Business\obj\Debug\Proje.Business.csprojAssemblyReference.cache
 C:\Users\Sevval\Desktop\WebTabanliProgramlama\WebProgramlama\Proje.Business\obj\Debug\Proje.Business.dll
 C:\Users\Sevval\Desktop\WebTabanliProgramlama\WebProgramlama\Proje.Business\obj\Debug\Proje.Business.pdb
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\bin\Debug\Proje.Business.dll
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\bin\Debug\Proje.Business.pdb
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\bin\Debug\EntityFramework.dll
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\bin\Debug\Proje.DataAccess.dll
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\bin\Debug\Proje.DataAccess.pdb
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\bin\Debug\Proje.DataAccess.dll.config
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\bin\Debug\EntityFramework.xml
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\obj\Debug\Proje.Business.csprojAssemblyReference.cache
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\obj\Debug\Proje.Business.csproj.CopyComplete
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\obj\Debug\Proje.Business.dll
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\obj\Debug\Proje.Business.pdb
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\bin\Debug\Proje.Business.dll.config
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sevval\Desktop\WebTabanliProgramlama\Proje.Business\bin\Debug\EntityFramework.SqlServer.xml

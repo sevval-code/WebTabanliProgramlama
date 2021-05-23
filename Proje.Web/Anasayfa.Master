@@ -13,14 +13,18 @@
         <div style="height:40px; background-color:chocolate; color:#fff">
             ÜST MENÜ
         </div>
-        <div style ="float:left; overflow:hidden; display:block; background-color:aqua; height:100px; width:20%">
+        <br />
+        <div style ="float:left; overflow:hidden; display:block; background-color:aqua; height:100px; ">
             SOL MENÜ
         </div>
 
-        <div style="float:left; overflow:hidden; display:block; height:100px; width:79%">
+        <div style="float:left; overflow:hidden; display:block; width:79%">
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
          </div>
+        
+        <p>
+            &nbsp;</p>
         
     </form>
 </body>
